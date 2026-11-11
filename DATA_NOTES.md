@@ -34,3 +34,21 @@
 
 \- CAIDA AS-relationship data terms of use
 
+\## Second source: RoVista (rovista.netsecurelab.org), checked 11 Nov 2026
+
+\- Scores (9 Oct 2026): AS15412 100%, AS9498 100%, AS4755 0%, AS18101 0%.
+
+\- Conflicts with APNIC for Airtel (100% vs 3.4%): methods differ
+
+&#x20; (RoVista = reachability of invalid prefixes; APNIC = users protected).
+
+\- AS9498 and AS15412 history charts are near-identical: 0 until early
+
+&#x20; Feb 2026, then 100. Only \~3 invalid prefixes tested by then, so weak evidence.
+
+&#x20; No change visible around 16 Jun 2026.
+
+\- Conclusion: per-network ROV status is uncertain. Treat it as an
+
+&#x20; assumption and test sensitivity; do not claim to confirm Kentik.
+
