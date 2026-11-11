@@ -52,3 +52,17 @@
 
 &#x20; assumption and test sensitivity; do not claim to confirm Kentik.
 
+\## Topology source: CAIDA AS Relationships (checked 11 Nov 2026)
+
+\- Public download: data.caida.org/datasets/as-relationships/serial-2/
+
+\- Format: provider|customer|-1 and peer|peer|0.
+
+\- Terms: CAIDA Acceptable Use Agreement. Cite as "The CAIDA AS
+
+&#x20; Relationships Dataset, <date range used>" and notify CAIDA of publications.
+
+\- Plan: download via script, do not commit the data files. Read the full
+
+&#x20; AUA before publishing results.
+
